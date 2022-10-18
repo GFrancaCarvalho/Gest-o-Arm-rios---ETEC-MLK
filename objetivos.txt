@@ -1,0 +1,43 @@
+Objetivos -----
+
+* Desenvolver um aplicativo de gerenciamento dos armários da ETEC, semana tecnológica.
+
+1 ->
+
+Rascunho layout aplicativo
+
+Estudar ----- 
+
+POO (x);
+Fr.End (x);
+Banco de dados SQL (x);
+Nuvem ().
+
+Features -----
+
+* Gerenciamento dos armários - 
+
+    Identificação dos armários -
+        Número do armário.
+
+    Situação dos armários -
+        Disponível;
+        Ocupado;
+
+    Localização dos armários - 
+        Indústria;  
+        Salas.
+
+* Gerenciamento de cadastro - 
+
+    Identificação do aluno -
+        Nome completo;
+        Curso.
+
+    Data de pagamento - 
+        Exibir a data de reserva e calcular seu vencimento,
+        informando situação (Ok; expirado).
+
+
+     
+
